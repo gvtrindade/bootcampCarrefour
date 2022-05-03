@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  bootcampcarrefour:
+    image: bootcampcarrefour
+    build:
+      context: .
+      dockerfile: ./Dockerfile

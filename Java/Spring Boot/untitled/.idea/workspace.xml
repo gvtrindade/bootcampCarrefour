@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e61ebec0-efbe-4d7c-a64d-3f061b39ab9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Beans/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Beans/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DI/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DI/Condutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DI/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DI/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IoC/EnviarEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IoC/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +38,8 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/Documentos/Stuff/bootcampCarrefour/Projeto Spring Data JPA"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Condutor">
